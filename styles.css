@@ -1,15 +1,1 @@
-/*  your css code here. If applicable */
-Table{
-			 border-collapse:collapse
-}
-th,td{
-	  padding: 12px 15px;
 
-	border:1px solid;
-	border-collapse: collapse;
-}
-
-
-.head{
-  background-color: #f1f1f1;
-}
